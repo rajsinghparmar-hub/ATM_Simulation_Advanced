@@ -28,5 +28,3 @@ This is a Python-based ATM simulation program that allows a user to perform bank
 
 7. Exit  
    - Exit the program gracefully
-   ```bash
-   python atm_simulation.py
